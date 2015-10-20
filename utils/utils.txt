@@ -1,1 +1,2 @@
 Made a new Utils entry
+Added new utility
