@@ -3,3 +3,5 @@ Added new utility
 
 Add Analytics feature
 Completed all the coding
+
+Added all the logging feature
